@@ -1,6 +1,8 @@
 # Base NON-FOSS/DIED-FOSS Sofaware
 Common NON-FOSS/DIED-FOSS  Software / 常用的非自由开源软件，或着已经无人维护的自由开源软件
 
+如遇解压密码，Decompression passwd: github\com 
+
 感谢以下有关项目与个人： 
 
    > | 文件名 | 程序 | 最新版本 | 作者 | Email | other |
